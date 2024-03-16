@@ -14,9 +14,9 @@ export default function Navbar() {
           />
         </a>
         <div className="hidden md:flex space-x-2 lg:space-x-4">
-          <NavLink href="/" text="Home" />
+          <NavLink href="/login" text="Home" />
           <NavLink href="#" text="Thoughts" />
-          <NavLink href="#" text="Events" />
+          <NavLink href="/jobs" text="Events" />
           <NavLink href="#" text="Mentor" />
         </div>
       </div>
