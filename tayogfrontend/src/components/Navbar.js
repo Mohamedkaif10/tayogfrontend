@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="flex items-center space-x-4 lg:space-x-8">
         <a className="text-xl flex items-center" href="/">
           <Image
-            src="/tayog.svg"
+            src="/tayog.png"
             alt="Tayog"
             className=""
             width={124}
@@ -17,7 +17,7 @@ export default function Navbar() {
           <NavLink href="/login" text="Home" />
           <NavLink href="#" text="Thoughts" />
           <NavLink href="/jobs" text="Events" />
-          <NavLink href="#" text="Mentor" />
+          <NavLink href="/mentor" text="Mentor" />
         </div>
       </div>
       <div className="flex items-center space-x-2 lg:space-x-8">

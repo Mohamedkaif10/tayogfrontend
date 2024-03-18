@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
         <div className="flex flex-col space-y-8">
           <Image
-            src="/tayog.svg"
+            src="/tayog.png"
             alt="Tayog"
             className=""
             width={248}
