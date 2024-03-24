@@ -117,7 +117,7 @@ export default function Search() {
                 <div className="">
                   <div className="line-clamp-1 text-lg">
                     Two-world leading universities, IIT-Hyderabad, establishing
-                    the world&#39;s best score with almost no work culture
+                    the world&apos;s best score with almost no work culture
                   </div>
                 </div>
                 <div className="h-[1px] bg-gray-300 w-full my-4"></div>
@@ -212,7 +212,7 @@ export default function Search() {
                 <div className="">
                   <div className="line-clamp-1 text-lg">
                     Two-world leading universities, IIT-Hyderabad, establishing
-                    the world&#39;s best score with almost no work culture
+                    the world&apos;s best score with almost no work culture
                   </div>
                 </div>
                 <div className="h-[1px] bg-gray-300 w-full my-4"></div>
