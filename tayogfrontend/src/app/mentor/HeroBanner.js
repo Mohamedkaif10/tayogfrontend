@@ -11,7 +11,7 @@ const HeroBanner = () => {
           success
         </div>
         <div className="text-slate-400">
-          Join TAYOG's Mentor Matchmaking Program Where{" "}
+          Join TAYOG&apos;s Mentor Matchmaking Program Where{" "}
           <span className="text-lg text-orange-600 font-bold">90%</span> of
           participants report accelerated research progress and{" "}
           <span className="text-lg text-orange-600 font-bold">95%</span>{" "}
