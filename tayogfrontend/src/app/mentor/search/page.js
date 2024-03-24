@@ -1,7 +1,7 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "../../../components/Navbar";
 import React from "react";
 import SearchBanner from "./SearchBanner";
-import Footer from "@/components/Footer";
+import Footer from "../../../components/Footer";
 
 const page = () => {
   return (
