@@ -5,7 +5,7 @@ export default function Evidence() {
         Still not convinced? Take a look at the evidence.
       </h2>
       <p className="mt-4 text-center text-sm text-gray-500">
-        We've provided personalized mentorship to hundreds of students and
+        We&#39;ve provided personalized mentorship to hundreds of students and
         professionals.
       </p>
       <div className="mt-10 flex justify-center items-center overscroll-x-auto">
